@@ -51,7 +51,7 @@
 ### 🔥 Featured Projects
 
 #### 🌾 [AnnaData — AI-Driven Agricultural Diagnostic Platform](https://github.com/harshit111singh)
-`Python` `CNN` `DeepSeek LLM` `OpenCV`
+`Python` `CNN` `OpenCV`
 Custom CNN for real-time crop disease and pest classification from field images, integrated with an LLM to generate contextual agronomic recommendations — built to help farmers protect their crops.
 
 #### ✈️ [Predictive Maintenance — RUL Estimation (NASA C-MAPSS Turbofan Dataset)](https://github.com/harshit111singh)
