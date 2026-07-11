@@ -67,6 +67,7 @@ Built a face mask detection model from scratch (no YOLO or pre-built detection l
 ### 📜 Certifications
 - Business Development — NPTEL
 - Marketing Research and Analysis — NPTEL
+- Advertising & Promotion Management — NPTEL 
 
 ---
 
