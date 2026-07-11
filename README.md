@@ -13,7 +13,7 @@
 - 🧠 Focused on **Machine Learning, Deep Learning, and Data Analytics**
 - 🛠️ Currently **learning skills and building projects** to prepare for my career
 - 🌱 Exploring **LSTMs, CNNs, and LLM integrations** through hands-on projects
-- 💼 Not currently working/freelancing — fully focused on **skill-building and project development**
+- 💼 Focused on **skill-building and project development**
 - 📫 Reach me at **singharshit309@gmail.com**
 
 ---
