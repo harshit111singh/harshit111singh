@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm currently in my **final year (2023–2027)** of B.Tech in **Computer Science Engineering (AI & ML)**
+- 🎓 I'm currently pursuing my B.Tech in **Computer Science Engineering (AI & ML)**
 - 🧠 Focused on **Machine Learning, Deep Learning, and Data Analytics**
 - 🛠️ Currently **learning skills and building projects** to prepare for my career
 - 🌱 Exploring **LSTMs, CNNs, and LLM integrations** through hands-on projects
