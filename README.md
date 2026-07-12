@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE (AI & ML) | Final Year @ Aravali College of Engineering and Management</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+Enthusiast;Building+AI-driven+solutions+for+real-world+problems;Final+Year+CSE+(AI%26ML)+Student;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+Enthusiast;Building+AI-driven+solutions+for+real-world+problems;CSE+(AI%26ML)+Student;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
